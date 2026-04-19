@@ -1,0 +1,6 @@
+notepad .gitignore
+data/
+.venv/
+__pycache__/
+*.pyc
+*.npy
