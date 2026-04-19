@@ -38,7 +38,7 @@ This repository does **not include the dataset** to keep it lightweight and avoi
 https://drive.google.com/file/d/12UC7x4vi2Va4rFAUimUxKKMXKsEtF9gg/view?usp=drive_link
 ```
 
-### ⚠️ Note
+⚠️ Note
 
 * The `data/` folder is ignored using `.gitignore`
 * Large files such as `.npy` are also excluded
@@ -46,7 +46,7 @@ https://drive.google.com/file/d/12UC7x4vi2Va4rFAUimUxKKMXKsEtF9gg/view?usp=drive
 
 ---
 
-## ⚙️ Requirements
+ ⚙️ Requirements
 
 Install dependencies using:
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+ ▶️ Usage
 
 ### 1. Run Feature Extraction
 
@@ -72,7 +72,7 @@ python classification.py
 
 ---
 
-## 📌 Notes
+ 📌 Notes
 
 * Ensure the dataset is available in the correct directory
 * The project is best run inside a virtual environment (`.venv`)
@@ -80,7 +80,7 @@ python classification.py
 
 ---
 
-## 🎯 Applications
+🎯 Applications
 
 * Land-use classification
 * Environmental monitoring
@@ -89,7 +89,7 @@ python classification.py
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
 * Python
 * NumPy
